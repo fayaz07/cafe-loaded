@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "name": "Juices",
+      "icon": "🧃",
+      "items": [
+        { "name": "Falooda", "price": 60 },
+        { "name": "Spl. Falooda", "price": 100 },
+        { "name": "Badam Shake", "price": 50 },
+        { "name": "Spl. Badam Shake", "price": 60 },
+        { "name": "American Nuts Ice Cream", "price": 60 },
+        { "name": "Gulkand Ice Cream", "price": 60 },
+        { "name": "Chocolate Ice Cream", "price": 60 },
+        { "name": "Lassi", "price": 30 },
+        { "name": "Spl Lassi", "price": 50 },
+        { "name": "Chocolate Lassi", "price": 50 },
+        { "name": "Strawberry Lassi", "price": 50 },
+        { "name": "Mix Fruit Lassi", "price": 50 },
+        { "name": "Blue Berry Lassi", "price": 50 }
+      ]
+    },
+    {
+      "name": "Moctail Mojito",
+      "icon": "🍹",
+      "items": [
+        { "name": "Blueberry", "price": 50 },
+        { "name": "Blue Curacao", "price": 50 },
+        { "name": "Lime & Mint", "price": 50 },
+        { "name": "Mix Fruit", "price": 50 },
+        { "name": "Orange", "price": 50 },
+        { "name": "Kala Khatta", "price": 50 },
+        { "name": "Pina Colada", "price": 50 }
+      ]
+    },
+    {
+      "name": "Teas",
+      "icon": "🫖",
+      "items": [
+        { "name": "Tea", "price": 10 },
+        { "name": "Black Tea", "price": 10 },
+        { "name": "Green Tea", "price": 15 },
+        { "name": "Ginger Tea", "price": 15 },
+        { "name": "Honey Tea", "price": 15 },
+        { "name": "Lemon Tea", "price": 15 }
+      ]
+    },
+    {
+      "name": "Coffee",
+      "icon": "☕",
+      "items": [
+        { "name": "Coffee", "price": 20 },
+        { "name": "Boost", "price": 20 },
+        { "name": "Horlicks", "price": 20 }
+      ]
+    },
+    {
+      "name": "Non-Veg Snacks",
+      "icon": "🍗",
+      "items": [
+        { "name": "Bread Omelette", "price": 30 },
+        { "name": "Butter Bread Omelette", "price": 40 },
+        { "name": "Butter Omelette Parata", "price": 50 },
+        { "name": "Chicken Nuggets", "price": 100 },
+        { "name": "Chicken Fingers (7 Piece)", "price": 150 },
+        { "name": "Chicken Fries (9 Piece)", "price": 80 },
+        { "name": "Chicken Burger Patty (2 Piece)", "price": 70 },
+        { "name": "Chicken Popcorn (12 Piece)", "price": 80 },
+        { "name": "Chicken Roll", "price": 50 },
+        { "name": "Chicken Wings (2 Piece)", "price": 70 },
+        { "name": "Chicken Strips (2 Piece)", "price": 80 },
+        { "name": "Chicken Cheese Ball (9 Piece)", "price": 150 }
+      ]
+    },
+    {
+      "name": "Veg Snacks",
+      "icon": "🥗",
+      "items": [
+        { "name": "Veg. Roll", "price": 30 },
+        { "name": "Paneer Roll", "price": 35 },
+        { "name": "Alu Tikki (7 Piece)", "price": 80 },
+        { "name": "Smiley (7 Piece)", "price": 60 },
+        { "name": "French Fries", "price": 60 },
+        { "name": "Veggie Fingers (9 Piece)", "price": 100 },
+        { "name": "Veggie Nuggets (10 Piece)", "price": 60 },
+        { "name": "Veg. Cheese Ball (10 Piece)", "price": 100 }
+      ]
+    },
+    {
+      "name": "Extras",
+      "icon": "🫙",
+      "items": [{ "name": "Mayonnaise", "price": 20 }]
+    }
+  ]
+}
